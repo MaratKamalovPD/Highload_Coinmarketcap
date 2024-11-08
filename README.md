@@ -711,6 +711,10 @@ __Защита от DDOS-атак__
 - Динамическое масштабирование ресурсов в случае выявления подозрительной активности
 - Постоянный мониторинг и анализ трафика для раннего обнаружения потенциальных угроз
 
+## 10. Схема проекта
+
+![alt text](image-10.png)
+
 ## Источники
 1. [According to CMC 2024](https://coinmarketcap.com/academy/article/according-to-cmc-2024-h1)
 2. [coinmarketcap.com Trafic Analytics, Ranking & Audience August 2024](https://www.similarweb.com/website/coinmarketcap.com)
